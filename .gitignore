@@ -6,3 +6,7 @@ Crypto WebApp/package-lock.json
 *.json
 *.txt
 Crypto WebApp/README.md
+
+
+Crypto WebApp/src/services/cryptoApi.js
+Crypto WebApp/src/services/cryptoNewsApi.js
